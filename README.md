@@ -79,10 +79,6 @@ You can use the batch mode by simply writing a shell script for more data files
 * [FANMOD] http://theinf1.informatik.uni-jena.de/motifs/
 
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Bo Ni** - *Initial work* 
