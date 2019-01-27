@@ -73,7 +73,23 @@ You can easily modify the subgraph size by typing
 
 You can use the batch mode by simply writing a shell script for more data files
 
+## Examples
 
+I provided a couple of example files in this repository
+
+### Sample_data.csv
+
+Sample data provided by Tina
+
+### Sample_data_processed.txt
+
+Sample processed data
+
+### sample_processed.txt.OUT
+
+Sample out put file
+
+### Sample 
 ## Built With
 
 * [FANMOD] http://theinf1.informatik.uni-jena.de/motifs/
